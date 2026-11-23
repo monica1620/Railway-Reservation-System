@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240089
+# Name: Monica R
+# Date: 23-11-2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/3c8f1129-84d1-4dd6-9dac-c8325154d657" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/ee4257b9-e69a-47b0-83ca-7d7ad2765c5e" />
 
 
 # COMMUNICTION DIAGRAM:
